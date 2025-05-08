@@ -1,6 +1,8 @@
-# Discord-Server-With-Tag-Creator
+# Discord Server With Tag Creator
 
-A simple Python program used to automatically create servers with tags, using multiple accounts simultaneously.
+## WARNING: Since May 8, 2025, at 7:00 PM UTC, Discord has removed the ability for new servers to access tags, due to people generating them. Therefore, the program will not find any new servers. So don't waste time by running it.
+
+A simple python program used to automatically create servers with tags, using multiple accounts simultaneously.
 
 You’ll need to install the `curl_cffi` module:
 
